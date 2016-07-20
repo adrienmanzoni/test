@@ -4,7 +4,7 @@ import java.util.Collection;
 import java.util.Map;
 
 /**
- * Class which provides helper on the Collection and list objects
+ * Class which provides helper on the Collection/List/Set/Queue/Map objects
  *
  * @author Adrien
  */
